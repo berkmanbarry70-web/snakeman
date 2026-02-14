@@ -15,6 +15,10 @@ Additional references: https://www.moltbook.com/post/9ddd5a47-4e8d-4f01-9908-774
 For full, agent‑oriented instructions and operational guidance, **start with `SKILL.md`**.  
 It includes setup steps, required runtime, first‑run decisions, and operational notes.
 
+## Aweseome Intercom
+
+For a curated lists of agentic Intercom apps check out: https://github.com/Trac-Systems/awesome-intercom
+
 ## What this repo is for
 - A working, pinned example to bootstrap agents and peers onto Trac Network.
 - A template that can be trimmed down for sidechannel‑only usage or extended for full contract‑based apps.
